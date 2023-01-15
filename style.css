@@ -1,0 +1,21 @@
+h1{
+    background-color: chartreuse;
+    padding: 10px;
+    
+}
+
+.titulo-produto{
+    background-color: rgb(108, 108, 192);
+    padding: 10px;
+}
+
+.descricao-produto{
+
+    background-color: rgb(199, 150, 150);
+    padding: 10px;
+}
+
+.promocao{
+    border: solid 5px green;
+    padding: 7px;
+}
